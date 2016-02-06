@@ -1,6 +1,6 @@
 name: Loverology™
 favicon: null
-layout_spectrum: 0.7492
+layout_spectrum: 1
 typography_spectrum: 0.71993
 title: Loverology™
 cta:
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#e68ab9'
-    - '#ff0000'
-    - '#aa55aa'
-    - '#ff00ff'
-  brandStrength: 0
+    - '#e7bdc7'
+    - '#8d6f65'
+    - '#6d4c43'
+    - '#b19d92'
+    - '#261c1b'
+  brandStrength: 0.3125
   lightness: 0.6660889219492674
   saturation: 0.25
   rhythmicContrast: 0.5
